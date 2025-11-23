@@ -1,5 +1,5 @@
-$SRC_DIR = "$(Get-Location)/source"
-$OUT_DIR = "${SRC_DIR}/../out"
+$SRC_DIR = "$(Get-Location)\src"
+$OUT_DIR = "$(Get-Location)\out"
 
 # ORDER:
 # 1. pkgconf
