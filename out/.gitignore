@@ -1,0 +1,3 @@
+# do NOT push files from this directory
+# except this gitignore
+./*

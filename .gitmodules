@@ -1,0 +1,69 @@
+[submodule "src/pkgconf"]
+	path = src/pkgconf
+	url = https://github.com/pkgconf/pkgconf.git
+[submodule "src/glib"]
+	path = src/glib
+	url = https://gitlab.gnome.org/GNOME/glib.git
+[submodule "gtk"]
+	path = src/gtk
+	url = https://gitlab.gnome.org/GNOME/gtk.git
+[submodule "src/pango"]
+	path = src/pango
+	url = https://gitlab.gnome.org/GNOME/pango.git
+[submodule "src/icu"]
+	path = src/icu
+	url = https://github.com/unicode-org/icu.git
+[submodule "src/gtkmm"]
+	path = src/gtkmm
+	url = https://github.com/GNOME/gtkmm.git
+[submodule "src/glibmm"]
+	path = src/glibmm
+	url = https://github.com/GNOME/glibmm.git
+[submodule "src/pangomm"]
+	path = src/pangomm
+	url = https://github.com/GNOME/pangomm.git
+[submodule "src/fontconfig"]
+	path = src/fontconfig
+	url = https://github.com/fontconfig/fontconfig.git
+[submodule "src/gsl"]
+	path = src/gsl
+	url = https://github.com/ampl/gsl.git
+[submodule "src/lcms2"]
+	path = src/lcms2
+	url = https://github.com/mm2/Little-CMS.git
+[submodule "src/libiconv"]
+	path = src/libiconv
+	url = https://github.com/roboticslibrary/libiconv.git
+[submodule "src/libintl"]
+	path = src/libintl
+	url = https://github.com/adelavais/libintl.git
+[submodule "src/Poppler"]
+	path = src/Poppler
+	url = https://github.com/witwall/Poppler.git
+[submodule "src/libjpeg"]
+	path = src/libjpeg
+	url = https://github.com/winlibs/libjpeg.git
+[submodule "src/libpng"]
+	path = src/libpng
+	url = https://github.com/pnggroup/libpng.git
+[submodule "src/boost"]
+	path = src/boost
+	url = https://github.com/boostorg/boost.git
+[submodule "src/openssl"]
+	path = src/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "src/libxslt"]
+	path = src/libxslt
+	url = https://github.com/GNOME/libxslt.git
+[submodule "src/libxml2"]
+	path = src/libxml2
+	url = https://github.com/GNOME/libxml2.git
+[submodule "src/zlib"]
+	path = src/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "src/gettext"]
+	path = src/gettext
+	url = https://github.com/autotools-mirror/gettext.git
+[submodule "src/double-conversion"]
+	path = src/double-conversion
+	url = https://github.com/google/double-conversion.git

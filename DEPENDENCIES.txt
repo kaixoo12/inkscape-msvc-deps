@@ -1,0 +1,19 @@
+- Gtkmm / Glibmm / Cairomm / Pango
+- Pangoft2
+- FontConfig
+- Gsl
+- GModule-2.0
+- bdw-gc
+- lcms2
+- JeMalloc
+- Iconv
+- Intl
+- PopplerCairo
+- JPEG / PNG libs
+- Potrace
+- Boostlib
+- OpenSSL
+- LibXslt
+- LibXml2
+- ZLIB
+- Gettext
