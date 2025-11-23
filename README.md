@@ -1,6 +1,12 @@
 # Inkscape MSVC dependencies
 
+> ⚠️ **This is an internal repo for inkscape maintainers.** ⚠️
+>
+> If you're just a regular person who wants to build Inkscape in Windows using MSVC, you only need to download the .zip file in the Releases tab, add it somewhere in your system, and set: `meson setup .. --prefix=<your_folder_location>`
+
 A set of scripts that lets you get and build Inkscape's dependencies to a ZIP file, without needing MSYS2 or vcpkg.
+
+> You can also get the dependencies from vcpkg or conan package manager if you prefer that.
 
 ## Dependencies
 
